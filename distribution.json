@@ -1,5 +1,10 @@
 {
   "version": "1.0.0",
+  "discord": {
+    "clientId": "1525237083285749780",
+    "smallImageKey": "logo_aetheria",
+    "smallImageText": "Aetheria Legend"
+  },
   "servers": [
     {
       "id": "Aetheria-1.20.1",
@@ -11,6 +16,10 @@
       "minecraftVersion": "1.20.1",
       "mainServer": true,
       "autoconnect": true,
+      "discord": {
+        "largeImageKey": "logo_aetheria",
+        "largeImageText": "Aetheria Legend"
+      },
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.19.3",
